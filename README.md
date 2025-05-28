@@ -1,4 +1,4 @@
-# Recipe Search Application built using Vue.js
+# Recipe Search Application built using Vue.js and Tailwind CSS
 
 This responsive web application  fetches data from a remote third-party API using endpoints that help the user to search for recipes by ingredients, alphabetically, and to randomly search meals stored in the remote API. 
 
