@@ -4,7 +4,7 @@ This responsive web application  fetches data from a remote third-party API usin
 
 By building this application, I solidified my skills on how to interact with an API, defining parent and child routes in Vue.js, defining layouts, and how to create scalable file and folder structures. While building this Vue.js application, I used the Vue composition API and Tailwind CSS to make best use of these technologies that work very well together.
 
-#Installation
+# Installation
 * Clone the repository
 * Run npm install
 * Copy .env.example into .env
