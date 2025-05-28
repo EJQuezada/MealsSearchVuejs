@@ -6,6 +6,6 @@ By building this application, I solidified my skills on how to interact with an 
 
 # Installation
 * Clone the repository
-* Run # npm install
+* Run "npm install"
 * Copy .env.example into .env
-* Run # npm run # dev to start the application at http://localhost:3000
+* Run "npm run" dev to start the application at http://localhost:3000
