@@ -1,4 +1,4 @@
-
+![Image](https://github.com/user-attachments/assets/10c2cbf5-e7d5-4f92-b230-4ecabf086d3b)
 
 # Vue.js and Tailwind CSS Recipe Search Application
 
